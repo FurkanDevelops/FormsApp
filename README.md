@@ -20,7 +20,7 @@ Bu proje, ASP.NET Core MVC kullanılarak geliştirilmiş temel bir ürün ve kat
 
 1. Bu repoyu klonlayın:
    ```sh
-   git clone <repo-url>
+   git clone <https://github.com/FurkanDevelops/FormsApp/tree/main>
    cd FormsApp
    ```
 
